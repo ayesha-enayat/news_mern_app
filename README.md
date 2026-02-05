@@ -1,8 +1,16 @@
 # News Website - MERN Stack
 
-A full-stack news website built with MongoDB, Express.js, React, and Node.js.
+NewsHub: A Full-Stack MERN News Platform
+A modern, feature-rich news application built with MongoDB, Express, React, and Node.js. It provides a seamless experience for both readers and content managers
 
 ## Features
+-User Experience: Browse news by category, search articles, and engage with content via likes, favorites, and threaded comments.
+
+-Admin Dashboard: A private portal to manage the full lifecycle of articles, including creating, editing, deleting, and setting "Featured" or "Draft" statuses.
+
+-Smart Content: Features real-time trending news, related article suggestions, and image upload capabilities.
+
+-Secure Auth: Implements JWT-based authentication with role-based access control (Admin vs. User).
 
 ### User Side
 - Browse all published news articles
