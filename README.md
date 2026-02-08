@@ -162,6 +162,3 @@ db.users.updateOne(
 - React Toastify
 - date-fns
 
-## License
-
-MIT
