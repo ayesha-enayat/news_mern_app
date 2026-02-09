@@ -1,4 +1,10 @@
-# News Website - MERN Stack
+
+## 🌐 Live Demo
+
+👉 Frontend: https://news-mern-app-frontend.vercel.app/
+👉 Backend API: https://news-mern-app-backend.vercel.app/api/health
+
+## News Website - MERN Stack
 
 NewsHub: A Full-Stack MERN News Platform
 A modern, feature-rich news application built with MongoDB, Express, React, and Node.js. It provides a seamless experience for both readers and content managers
