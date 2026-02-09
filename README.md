@@ -1,7 +1,7 @@
 # 🌐 Live Demo
 
-👉 Frontend: https://your-frontend-link.vercel.app  
-👉 Backend API: https://news-mern-app-backend.vercel.app  
+👉 Frontend: https://news-mern-app-frontend.vercel.app/
+👉 Backend API: https://news-mern-app-backend.vercel.app/api/health
 
 ---
 
