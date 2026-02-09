@@ -1,21 +1,15 @@
-# 🌐 Live Demo
+## 🌐 Live Demo
 
 👉 Frontend: https://news-mern-app-frontend.vercel.app/ <br/>
+
+## Admin Demo Access
+
+📧 Email: admin@example.com  <br/>
+🔑 Password: admin123  <br/>
 
 👉 Backend API: https://news-mern-app-backend.vercel.app/api/health
 
 ---
-
-## 🔐 Admin Demo Access
-
-📧 Email: admin@example.com  
-🔑 Password: admin123  
-
-⚠️ **Note:** This is a demo admin account for testing purposes only. Please do not change the credentials or delete data.
-
----
-
-
 
 ## News Website - MERN Stack
 
